@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+# deceitfulmason
+🎓  Pursuing a Bachelor’s degree in Electrical Engineering
+📍  Based in Brazil
+🖥  Emphasis on Digital Systems Design, Microelectronics, Embedded and Computer Architecture.
+⌨  Learning C, C++, Verilog and VHDL.
+
 <!--
 **deceitfulmason/deceitfulmason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
