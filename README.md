@@ -9,10 +9,9 @@
 🖥  Emphasis on Digital Systems Design, Microelectronics, Embedded and Computer Architecture.
 
 
-⌨  Learning C, C++, Verilog and VHDL.
+⌨  Learning C, C++, and SystemVerilog.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deceitfulmason)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **deceitfulmason/deceitfulmason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
